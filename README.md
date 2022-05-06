@@ -1,5 +1,5 @@
-## "123456", 2019
-Maggie Van Nortwick
+# 123456
+### Maggie Van Nortwick, 2019
 
 The password “123456” is the most common in the world, having been found over
 23 million times in the information stolen from countless internet platforms and
